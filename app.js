@@ -22,7 +22,6 @@ angular.module('NameCalculator', [])
     return totalStringValue;
   }
 
-});
-
+}); 
 
 })();
